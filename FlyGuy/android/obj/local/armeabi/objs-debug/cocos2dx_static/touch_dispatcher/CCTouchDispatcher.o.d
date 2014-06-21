@@ -1,0 +1,113 @@
+obj/local/armeabi/objs-debug/cocos2dx_static/touch_dispatcher/CCTouchDispatcher.o: \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.cpp \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCObject.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCDataVisitor.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformMacros.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccConfig.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformConfig.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformConfig.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCPlatformDefine.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/android/log.h \
+ /androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCArray.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/support/data_support/ccCArray.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccMacros.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCCommon.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformMacros.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCStdC.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/math.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/stdlib.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/alloca.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/strings.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/memory.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccConfig.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchHandler.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCSet.h \
+ /androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/set \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCObject.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouch.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCGeometry.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/textures/CCTexture2D.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccTypes.h \
+ /SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCGL.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h \
+ /androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h \
+ /androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchDispatcher.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCObject.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCDataVisitor.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformMacros.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccConfig.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformConfig.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformConfig.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCPlatformDefine.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/android/log.h:
+
+/androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCArray.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/support/data_support/ccCArray.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccMacros.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCCommon.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/CCPlatformMacros.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCStdC.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/math.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/stdlib.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/alloca.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/strings.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/memory.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccConfig.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouchHandler.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCSet.h:
+
+/androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/set:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCObject.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/touch_dispatcher/CCTouch.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/cocoa/CCGeometry.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/textures/CCTexture2D.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/include/ccTypes.h:
+
+/SVN/FlyingFleaV12/FlyGuy/FlyGuy/android/../libs/cocos2dx/platform/android/CCGL.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/KHR/khrplatform.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2.h:
+
+/androidndk/platforms/android-14/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/androidndk/sources/cxx-stl/gnu-libstdc++/4.6/include/algorithm:

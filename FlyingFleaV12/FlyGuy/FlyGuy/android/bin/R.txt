@@ -1,0 +1,6 @@
+int drawable icon 0x7f020000
+int layout asd 0x7f030000
+int string SIGN_IN 0x7f040002
+int string SIGN_OUT 0x7f040001
+int string app_id_play_services 0x7f040003
+int string app_name 0x7f040000

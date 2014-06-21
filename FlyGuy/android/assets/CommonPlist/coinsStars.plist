@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coinsStars_0</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_0.png</string>
+		<key>string_2</key>
+		<string>5000 coins</string>
+		<key>string_3</key>
+		<string>$1.99</string>
+		<key>value</key>
+		<integer>5000</integer>
+	</dict>
+	<key>coinsStars_1</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_1.png</string>
+		<key>string_2</key>
+		<string>25,000 coins</string>
+		<key>string_3</key>
+		<string>$3.99</string>
+		<key>value</key>
+		<integer>25000</integer>
+	</dict>
+	<key>coinsStars_2</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_2.png</string>
+		<key>string_2</key>
+		<string>75,000 coins</string>
+		<key>string_3</key>
+		<string>$5.99</string>
+		<key>value</key>
+		<integer>75000</integer>
+	</dict>
+	<key>coinsStars_3</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_3.png</string>
+		<key>string_2</key>
+		<string>300,000 coins</string>
+		<key>string_3</key>
+		<string>$24.99</string>
+		<key>value</key>
+		<real>300000</real>
+	</dict>
+	<key>coinsStars_4</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_4.png</string>
+		<key>string_2</key>
+		<string>5 stars</string>
+		<key>string_3</key>
+		<string>$0.99</string>
+		<key>value</key>
+		<integer>5</integer>
+	</dict>
+	<key>coinsStars_5</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_5.png</string>
+		<key>string_2</key>
+		<string>50 stars</string>
+		<key>string_3</key>
+		<string>$4.99</string>
+		<key>value</key>
+		<integer>50</integer>
+	</dict>
+	<key>coinsStars_6</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_6.png</string>
+		<key>string_2</key>
+		<string>200 stars</string>
+		<key>string_3</key>
+		<string>$9.99</string>
+		<key>value</key>
+		<integer>200</integer>
+	</dict>
+	<key>coinsStars_7</key>
+	<dict>
+		<key>string_1</key>
+		<string>coinsStars_7.png</string>
+		<key>string_2</key>
+		<string>500 stars</string>
+		<key>string_3</key>
+		<string>$19.99</string>
+		<key>value</key>
+		<integer>500</integer>
+	</dict>
+	<key>coinsStars_8</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconAllChars.png</string>
+		<key>string_2</key>
+		<string>Unlock all characters</string>
+		<key>string_3</key>
+		<string>$2.99</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extras_0</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconMysteryBox.png</string>
+		<key>string_2</key>
+		<string>Mystery Box</string>
+		<key>string_3</key>
+		<string>Smash a mystery box to</string>
+		<key>string_4</key>
+		<string>get a random special item.</string>
+	</dict>
+	<key>extras_1</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconSuperRocket.png</string>
+		<key>string_2</key>
+		<string>Jet Pack Special</string>
+		<key>string_3</key>
+		<string>Activate an extra long super</string>
+		<key>string_4</key>
+		<string>jet pack any time.</string>
+	</dict>
+	<key>extras_2</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconExtraLife.png</string>
+		<key>string_2</key>
+		<string>Invincible</string>
+		<key>string_3</key>
+		<string>Don&apos;t die for 20 seconds</string>
+		<key>string_4</key>
+		<string></string>
+	</dict>
+	<key>extras_3</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconWallBreak.png</string>
+		<key>string_2</key>
+		<string>Broken Walls Special</string>
+		<key>string_3</key>
+		<string>Convert all solid walls to broken</string>
+		<key>string_4</key>
+		<string>for 15 seconds.</string>
+	</dict>
+	<key>extras_4</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconWideLane.png</string>
+		<key>string_2</key>
+		<string>Wide Cave Special</string>
+		<key>string_3</key>
+		<string>Make the cave wide for</string>
+		<key>string_4</key>
+		<string>10 seconds.</string>
+	</dict>
+	<key>extras_5</key>
+	<dict>
+		<key>string_1</key>
+		<string>char0_0.png</string>
+		<key>string_2</key>
+		<string>Lenny</string>
+		<key>string_3</key>
+		<string>He’s a terrible driver, but he loves </string>
+		<key>string_4</key>
+		<string>smashing things while flying his jetpack.</string>
+	</dict>
+	<key>extras_6</key>
+	<dict>
+		<key>string_1</key>
+		<string>char1_0.png</string>
+		<key>string_2</key>
+		<string>Dez</string>
+		<key>string_3</key>
+		<string>Dez reluctantly gave up his </string>
+		<key>string_4</key>
+		<string>skateboard and car for this jetpack and he loves living on the edge.</string>
+	</dict>
+	<key>extras_7</key>
+	<dict>
+		<key>string_1</key>
+		<string>char2_0.png</string>
+		<key>string_2</key>
+		<string>Fauna Flea</string>
+		<key>string_3</key>
+		<string>She may be the youngest, but she</string>
+		<key>string_4</key>
+		<string>has some mad skills and she’s not afraid to show them.</string>
+	</dict>
+	<key>extras_8</key>
+	<dict>
+		<key>string_1</key>
+		<string>char3_0.png</string>
+		<key>string_2</key>
+		<string>Ella</string>
+		<key>string_3</key>
+		<string>She loves to tumble, jump and fly, </string>
+		<key>string_4</key>
+		<string>so she can’t wait to catch some air with her jetpack.</string>
+	</dict>
+</dict>
+</plist>

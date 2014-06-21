@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kAchievement_1_0</key>
+	<string>gold rush</string>
+	<key>kAchievement_1_1</key>
+	<string>collect 75 coins</string>
+	<key>kAchievement_2_0</key>
+	<string>spread your wings</string>
+	<key>kAchievement_2_1</key>
+	<string>fly for 30 seconds</string>
+	<key>kAchievement_3_0</key>
+	<string>stay focused</string>
+	<key>kAchievement_3_1</key>
+	<string>fly for 30 seconds without bumping</string>
+	<key>kAchievement_4_0</key>
+	<string>crush em</string>
+	<key>kAchievement_4_1</key>
+	<string>Smash through 5 walls in a single game</string>
+	<key>kAchievement_5_0</key>
+	<string>Hit It!</string>
+	<key>kAchievement_5_1</key>
+	<string>Break through 10 walls</string>
+	<key>kAchievement_6_0</key>
+	<string>Half mile</string>
+	<key>kAchievement_6_1</key>
+	<string>Travel 800 meters in a single game</string>
+	<key>kAchievement_7_0</key>
+	<string>Speed Bump</string>
+	<key>kAchievement_7_1</key>
+	<string>Hit 2 jet pack in a single game</string>
+	<key>kAchievement_8_0</key>
+	<string>Nothing to see here</string>
+	<key>kAchievement_8_1</key>
+	<string>Go for 60 seconds without collecting any coins or powerups</string>
+	<key>kAchievement_9_0</key>
+	<string>Lightning</string>
+	<key>kAchievement_9_1</key>
+	<string>Travel 300 meters in less than 15 seconds</string>
+	<key>kAchievement_10_0</key>
+	<string>4 Score</string>
+	<key>kAchievement_10_1</key>
+	<string>Achieve at least 4000 points in a single game</string>
+	<key>kAchievement_11_0</key>
+	<string>10K</string>
+	<key>kAchievement_11_1</key>
+	<string>Collect 10,000 coins</string>
+	<key>kAchievement_12_0</key>
+	<string>Mr Bubbles</string>
+	<key>kAchievement_12_1</key>
+	<string> Collect a Shield Power Up</string>
+	<key>kAchievement_13_0</key>
+	<string>Nothing Left Behind</string>
+	<key>kAchievement_13_1</key>
+	<string>Break 5 walls in a row and don&apos;t leave any in between</string>
+	<key>kAchievement_14_0</key>
+	<string>Over Under</string>
+	<key>kAchievement_14_1</key>
+	<string>Fly Over one wall and then Under the Next Wall</string>
+	<key>kAchievement_15_0</key>
+	<string>Double Up</string>
+	<key>kAchievement_15_1</key>
+	<string>Collect 2 Power ups in a single game</string>
+	<key>kAchievement_16_0</key>
+	<string>Moving Target</string>
+	<key>kAchievement_16_1</key>
+	<string>Smash one of the Moving Walls</string>
+	<key>kAchievement_17_0</key>
+	<string>5 Bucks</string>
+	<key>kAchievement_17_1</key>
+	<string>Score 5000 points or more in a game</string>
+	<key>kAchievement_18_0</key>
+	<string>60 Minutes</string>
+	<key>kAchievement_18_1</key>
+	<string>Travel for 60 Seconds in 1 game</string>
+	<key>kAchievement_19_0</key>
+	<string>The big break</string>
+	<key>kAchievement_19_1</key>
+	<string>Break through 100 walls</string>
+	<key>kAchievement_20_0</key>
+	<string>Big Drops</string>
+	<key>kAchievement_20_1</key>
+	<string>Hit the Top wall then bottom wall twice in a game</string>
+	<key>kAchievement_21_0</key>
+	<string>The Big Squeeze</string>
+	<key>kAchievement_21_1</key>
+	<string>Perform a tight squeeze while being big</string>
+	<key>kAchievement_22_0</key>
+	<string>Mini Me</string>
+	<key>kAchievement_22_1</key>
+	<string>Perform 2 tight squeezes in a single game as a mini</string>
+	<key>kAchievement_23_0</key>
+	<string>Fill Them Up</string>
+	<key>kAchievement_23_1</key>
+	<string>Fill 20 spaces with 10,000+ points in local leaderboard</string>
+	<key>kAchievement_24_0</key>
+	<string>10K meter target</string>
+	<key>kAchievement_24_1</key>
+	<string>Travel 10,000 meters in a single game</string>
+	<key>kAchievement_25_0</key>
+	<string>The Tiny Squeeze</string>
+	<key>kAchievement_25_1</key>
+	<string>Do 4 tight squeezes while in tiny mode in a single game</string>
+	<key>kAchievement_26_0</key>
+	<string>Double Crush</string>
+	<key>kAchievement_26_1</key>
+	<string>Smash 10 walls in a row</string>
+	<key>kAchievement_27_0</key>
+	<string>Silk flow</string>
+	<key>kAchievement_27_1</key>
+	<string>Achieve 10,000 points without smashing any wall</string>
+	<key>kAchievement_28_0</key>
+	<string>Quad Moving target</string>
+	<key>kAchievement_28_1</key>
+	<string>Smash 4 of the moving walls</string>
+	<key>kAchievement_29_0</key>
+	<string>Tri Em Up</string>
+	<key>kAchievement_29_1</key>
+	<string>Grab 5000+ points 3 games in a row</string>
+	<key>kAchievement_30_0</key>
+	<string>Get Em All</string>
+	<key>kAchievement_30_1</key>
+	<string>Unlock all characters</string>
+	<key>kAchievement_31_0</key>
+	<string>Mr Curious</string>
+	<key>kAchievement_31_1</key>
+	<string>Open ten Mystery Boxes</string>
+	<key>kAchievement_32_0</key>
+	<string>The Astronaut</string>
+	<key>kAchievement_32_1</key>
+	<string>Collect 10 jet packs in single run</string>
+	<key>kAchievement_33_0</key>
+	<string>Mission Jet 25</string>
+	<key>kAchievement_33_1</key>
+	<string>Fire your jetpack 2500 times in single run</string>
+	<key>kAchievement_34_0</key>
+	<string>Jetpack on Fire</string>
+	<key>kAchievement_34_1</key>
+	<string>Fire your jetpack 25000 times</string>
+	<key>kAchievement_35_0</key>
+	<string>Mr. Conquerer</string>
+	<key>kAchievement_35_1</key>
+	<string>Capture all power-ups in a single game</string>
+	<key>kAchievement_36_0</key>
+	<string>Break Them Up</string>
+	<key>kAchievement_36_1</key>
+	<string>Use broken wall special 5 times</string>
+	<key>kAchievement_37_0</key>
+	<string>The chameleon</string>
+	<key>kAchievement_37_1</key>
+	<string>Try to beat high scores with Fauna Flea and Ella</string>
+	<key>kAchievement_38_0</key>
+	<string>Mr. Ritchie Rich</string>
+	<key>kAchievement_38_1</key>
+	<string>Upgrade all powers to level 5</string>
+	<key>kAchievement_39_0</key>
+	<string>Never say die</string>
+	<key>kAchievement_39_1</key>
+	<string>Continue 5 times in a game</string>
+	<key>kAchievement_40_0</key>
+	<string>Mr. Striker</string>
+	<key>kAchievement_40_1</key>
+	<string>Smash 5000 walls in a lifetime</string>
+</dict>
+</plist>

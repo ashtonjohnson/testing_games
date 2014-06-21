@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="/libcocos2dx"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="/mopub-sdk/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="/mopub-sdk/libs/GoogleAdMobAdsSdk-6.4.1.jar"/>
+	<classpathentry kind="lib" path="/mopub-sdk/libs/MMSDK.jar"/>
+	<classpathentry kind="lib" path="C:/Users/teampo2.teampo2-PC/Desktop/FlyingFleaV12/FlyGuy/FlyGuy/android/libs/androidbillinglibrary.jar"/>
+	<classpathentry kind="lib" path="C:/Users/teampo2.teampo2-PC/Desktop/FlyingFleaV12/FlyGuy/FlyGuy/android/libs/chartboost.jar"/>
+	<classpathentry kind="lib" path="C:/Users/teampo2.teampo2-PC/Desktop/FlyingFleaV12/FlyGuy/FlyGuy/android/libs/Flurry_3.2.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services_lib"/>
+	<classpathentry kind="lib" path="/libcocos2dx/bin/libcocos2dx.jar"/>
+	<classpathentry kind="lib" path="/google-play-services_lib/libs/google-play-services.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

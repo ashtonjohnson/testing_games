@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flying Cells</string>
+    <string name="SIGN_OUT">Successfully Signed Out</string>
+	<string name="SIGN_IN">Sign in on Google+</string>
+	<string name="app_id_play_services">526424630584</string>
+</resources>

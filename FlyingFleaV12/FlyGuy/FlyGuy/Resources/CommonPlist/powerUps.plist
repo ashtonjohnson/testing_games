@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pow_0</key>
+	<dict>
+		<key>string_1</key>
+		<string>powerUp_0.png</string>
+		<key>string_2</key>
+		<string>Jet Pack</string>
+		<key>string_3</key>
+		<string>points for smashing walls.</string>
+		<key>string_4</key>
+		<string>+ Become a coin super magnet.</string>
+	</dict>
+	<key>pow_1</key>
+	<dict>
+		<key>string_1</key>
+		<string>powerUp_1.png</string>
+		<key>string_2</key>
+		<string>Super Jet</string>
+		<key>string_3</key>
+		<string>Longer lasting rocket.</string>
+		<key>string_4</key>
+		<string>+ Become a coin super magnet</string>
+	</dict>
+	<key>pow_2</key>
+	<dict>
+		<key>string_1</key>
+		<string>powerUp_2.png</string>
+		<key>string_2</key>
+		<string>Shield</string>
+		<key>string_3</key>
+		<string>Protect against walls.</string>
+		<key>string_4</key>
+		<string>+ Longer lasting bubble.</string>
+	</dict>
+	<key>pow_3</key>
+	<dict>
+		<key>string_1</key>
+		<string>powerUp_3.png</string>
+		<key>string_2</key>
+		<string>Shrink Mode</string>
+		<key>string_3</key>
+		<string>points for tight squeezes.</string>
+		<key>string_4</key>
+		<string>+ Longer lasting shrink mode.</string>
+	</dict>
+	<key>pow_4</key>
+	<dict>
+		<key>string_1</key>
+		<string>iconFourCoins.png</string>
+		<key>string_2</key>
+		<string>Coins</string>
+		<key>string_3</key>
+		<string>Enable the green coins(worth 2x)</string>
+	</dict>
+</dict>
+</plist>
